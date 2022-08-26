@@ -17,6 +17,8 @@
 <div class="img-background">
     <h1 class="main-title"> <?php the_title();?> </h1>
     <div class="main-text"> <?php the_content();?> </div>
+
+    <!-- Esta es una de las partes por adaptar -->
     <a href="#info-home"><button class="main-button">Mas información</button></a>
 </div>
 
@@ -30,6 +32,9 @@
     <!-- Cambiar esta información, se pueden agregar o eliminar elementos de clase entry -->
     <!-- Modify this text, entry class items can be added or deleted -->
     <div class="items">
+
+        <!-- Esta es una de las partes por adaptar -->
+
         <div class="entry">    
             <div class="card-img" id="c1"></div>
             <p class="name">Información</p>

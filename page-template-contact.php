@@ -25,6 +25,9 @@
                 <!-- Se recomienda cambiar el texto de el formulario si es necesario -->
                 <!-- It is recommended to change the text of the form if necessary -->
 
+
+                <!-- Esta es una de las partes por adaptar -->
+
                 <h1 class="title-form">¿Cómo podemos ayudarte?</h1>
                 <div class="input">
                     <input type="text" class="input-fieldMain" required />
