@@ -349,19 +349,19 @@ main{
 /*Card images, can be modified*/
 
 #c1{
-    background-image: url('./img/background6.jpg');
+    background-image: url('./img/img1.png');
     background-repeat: no-repeat;
     background-position: 0em -1.6em;
     background-size: cover;
 }
 #c2{
-    background-image: url('./img/background1.jpg');
+    background-image: url('./img/img2.png');
     background-repeat: no-repeat;
     background-position: 0em -1.65em;
     background-size: cover;
 }
 #c3{
-    background-image: url('./img/background5.jpg');
+    background-image: url('./img/img3.png');
     background-repeat: no-repeat;
     background-position: 0em -1.65em;
     background-size: cover;

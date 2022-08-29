@@ -37,23 +37,18 @@
 
         <div class="entry">    
             <div class="card-img" id="c1"></div>
-            <p class="name">Información</p>
-            <p class="quote">"Man, I think this app freaking rocks and stuff. Dude"</p>
+            <p class="name">Sistema Antilavado PLD/FT</p>
+            <p class="quote"></p>
         </div>
         <div class="entry">
             <div class="card-img" id="c2"></div>
-            <p class="name">Información</p>
-            <p class="quote">"Man, I think this app freaking rocks and stuff. Dude"</p>
+            <p class="name">Contabilidad Electrónica Automática Integrada</p>
+            <p class="quote"></p>
         </div>
         <div class="entry">
             <div class="card-img" id="c3"></div>
-            <p class="name">Información</p>
-            <p class="quote">"Man, I think this app freaking rocks and stuff. Dude"</p>
-        </div>
-        <div class="entry">
-            <div class="card-img" id="c4"></div>
-            <p class="name">Información</p>
-            <p class="quote">"Man, I think this app freaking rocks and stuff. Dude"</p>
+            <p class="name">Diseñado para SOFOMes ENR del mercado mexicano</p>
+            <p class="quote"></p>
         </div>
     </div>
 </div>
